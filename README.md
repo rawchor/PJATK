@@ -4,3 +4,12 @@
   </div>
   PJATK (PJAIT) Projects
 </h1>
+
+This repository contains a list of subject repositories that I have created during my studies at [PJAIT](https://www.pja.edu.pl/en/) ([PJATK](https://www.pja.edu.pl/) in Polish).
+
+## Solutions
+* [ASD](https://github.com/rawchor/ASD)
+* [BSI](https://github.com/rawchor/BSI)
+* [GRK](https://github.com/rawchor/GRK_lab)
+* [TIN](https://github.com/rawchor/TIN)
+* [TPO](https://github.com/rawchor/TPO)
